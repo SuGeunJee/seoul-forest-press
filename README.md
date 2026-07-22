@@ -22,7 +22,7 @@
 
 Vercel로 배포되어 있습니다.
 
-- (배포 후 이 줄을 실제 URL로 교체해주세요)
+- https://seoul-forest-deploy-50oiourjf-jsg3.vercel.app/
 
 ## 로컬에서 확인하기
 
